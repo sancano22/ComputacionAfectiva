@@ -1,0 +1,94 @@
+delta: 189941:theta:91455:low_alpha:22805:high_alpha:15473:low_beta:10067:high_beta:4014:low_gamma:1981:mid_gamma:5814
+Attention Level: 0
+delta: 228023:theta:157774:low_alpha:74212:high_alpha:8826:low_beta:11860:high_beta:7448:low_gamma:3343:mid_gamma:8396
+Attention Level: 0
+delta: 456245:theta:25945:low_alpha:8948:high_alpha:13891:low_beta:2615:high_beta:1071:low_gamma:569:mid_gamma:2423
+Attention Level: 0
+delta: 574234:theta:35682:low_alpha:15449:high_alpha:6620:low_beta:1615:high_beta:1667:low_gamma:394:mid_gamma:2413
+Attention Level: 0
+delta: 433632:theta:21772:low_alpha:13111:high_alpha:3080:low_beta:5772:high_beta:1510:low_gamma:1222:mid_gamma:3304
+Attention Level: 0
+delta: 71409:theta:8136:low_alpha:3271:high_alpha:4704:low_beta:1748:high_beta:345:low_gamma:230:mid_gamma:751
+Attention Level: 0
+delta: 100826:theta:5255:low_alpha:3732:high_alpha:1078:low_beta:1795:high_beta:813:low_gamma:306:mid_gamma:1046
+Attention Level: 0
+delta: 268067:theta:50306:low_alpha:3589:high_alpha:9216:low_beta:1548:high_beta:1986:low_gamma:389:mid_gamma:2947
+Attention Level: 0
+delta: 1669568:theta:577443:low_alpha:95555:high_alpha:145902:low_beta:78956:high_beta:95039:low_gamma:10758:mid_gamma:27351
+Attention Level: 0
+delta: 540569:theta:147616:low_alpha:41174:high_alpha:210386:low_beta:54335:high_beta:60105:low_gamma:52018:mid_gamma:32030
+Attention Level: 0
+delta: 1328220:theta:323800:low_alpha:11316:high_alpha:25471:low_beta:38383:high_beta:35248:low_gamma:12979:mid_gamma:19863
+Attention Level: 0
+delta: 536027:theta:18660:low_alpha:5489:high_alpha:3608:low_beta:1580:high_beta:957:low_gamma:389:mid_gamma:209
+Attention Level: 0
+delta: 1883072:theta:71100:low_alpha:4324:high_alpha:5999:low_beta:8117:high_beta:10112:low_gamma:6724:mid_gamma:5331
+Attention Level: 0
+delta: 1:theta:5:low_alpha:1:high_alpha:1:low_beta:0:high_beta:0:low_gamma:0:mid_gamma:0
+Attention Level: 0
+delta: 1026210:theta:147290:low_alpha:42670:high_alpha:38530:low_beta:78784:high_beta:59781:low_gamma:55069:mid_gamma:14607
+Attention Level: 0
+delta: 966551:theta:935394:low_alpha:577893:high_alpha:111837:low_beta:184602:high_beta:284613:low_gamma:64762:mid_gamma:93995
+Attention Level: 0
+delta: 1717786:theta:419512:low_alpha:70188:high_alpha:208380:low_beta:166546:high_beta:535923:low_gamma:103694:mid_gamma:119710
+Attention Level: 0
+delta: 1862227:theta:288166:low_alpha:149513:high_alpha:59005:low_beta:39496:high_beta:113537:low_gamma:114834:mid_gamma:38968
+Attention Level: 0
+delta: 233254:theta:1177888:low_alpha:213603:high_alpha:305766:low_beta:261213:high_beta:276094:low_gamma:59527:mid_gamma:179064
+Attention Level: 0
+delta: 259887:theta:166784:low_alpha:39261:high_alpha:195662:low_beta:33747:high_beta:28894:low_gamma:27395:mid_gamma:41993
+Attention Level: 0
+delta: 525179:theta:219532:low_alpha:34030:high_alpha:44395:low_beta:28746:high_beta:25010:low_gamma:19769:mid_gamma:6591
+Attention Level: 0
+delta: 336503:theta:72435:low_alpha:123894:high_alpha:48056:low_beta:84254:high_beta:26172:low_gamma:46219:mid_gamma:39826
+Attention Level: 0
+delta: 1612633:theta:194723:low_alpha:392326:high_alpha:437877:low_beta:302921:high_beta:83954:low_gamma:131503:mid_gamma:130579
+Attention Level: 0
+delta: 107459:theta:99890:low_alpha:9115:high_alpha:18074:low_beta:14468:high_beta:17253:low_gamma:6238:mid_gamma:8696
+Attention Level: 0
+delta: 1369680:theta:517262:low_alpha:329739:high_alpha:47185:low_beta:124504:high_beta:64789:low_gamma:54086:mid_gamma:45747
+Attention Level: 0
+delta: 1386848:theta:481551:low_alpha:252694:high_alpha:357424:low_beta:1284253:high_beta:480502:low_gamma:100087:mid_gamma:145871
+Attention Level: 51
+delta: 1193884:theta:576785:low_alpha:92861:high_alpha:173697:low_beta:118518:high_beta:87884:low_gamma:90109:mid_gamma:37070
+Attention Level: 51
+delta: 1846650:theta:1291429:low_alpha:487804:high_alpha:214333:low_beta:472630:high_beta:100556:low_gamma:97771:mid_gamma:95803
+Attention Level: 51
+delta: 677124:theta:174301:low_alpha:61582:high_alpha:31157:low_beta:55736:high_beta:101110:low_gamma:58574:mid_gamma:19978
+Attention Level: 51
+delta: 280376:theta:67561:low_alpha:26681:high_alpha:29818:low_beta:6578:high_beta:4592:low_gamma:3413:mid_gamma:1322
+Attention Level: 51
+delta: 2225092:theta:206348:low_alpha:240311:high_alpha:12146:low_beta:57121:high_beta:37716:low_gamma:10156:mid_gamma:11406
+Attention Level: 51
+delta: 333952:theta:92435:low_alpha:107804:high_alpha:49520:low_beta:25293:high_beta:60478:low_gamma:5371:mid_gamma:9240
+Attention Level: 51
+delta: 1120462:theta:53844:low_alpha:36547:high_alpha:18226:low_beta:11236:high_beta:9604:low_gamma:1369:mid_gamma:2590
+Attention Level: 51
+delta: 1745402:theta:2467769:low_alpha:116037:high_alpha:1624133:low_beta:374766:high_beta:249941:low_gamma:56047:mid_gamma:98910
+Attention Level: 51
+delta: 918282:theta:200155:low_alpha:77442:high_alpha:89905:low_beta:83710:high_beta:65811:low_gamma:25439:mid_gamma:35064
+Attention Level: 51
+delta: 255628:theta:111032:low_alpha:89650:high_alpha:54364:low_beta:15632:high_beta:47647:low_gamma:9775:mid_gamma:22052
+Attention Level: 51
+delta: 1040629:theta:80099:low_alpha:23133:high_alpha:18784:low_beta:53930:high_beta:41103:low_gamma:9413:mid_gamma:9502
+Attention Level: 51
+delta: 2406399:theta:1349001:low_alpha:611099:high_alpha:913475:low_beta:881693:high_beta:563865:low_gamma:233401:mid_gamma:221836
+Attention Level: 51
+delta: 1337193:theta:653006:low_alpha:227461:high_alpha:97909:low_beta:65684:high_beta:71635:low_gamma:61925:mid_gamma:29504
+Attention Level: 51
+delta: 297951:theta:32386:low_alpha:34181:high_alpha:8431:low_beta:14140:high_beta:1968:low_gamma:992:mid_gamma:2287
+Attention Level: 51
+delta: 247785:theta:25893:low_alpha:5049:high_alpha:5621:low_beta:2383:high_beta:1900:low_gamma:356:mid_gamma:593
+Attention Level: 51
+delta: 104994:theta:35433:low_alpha:13961:high_alpha:5433:low_beta:3066:high_beta:2552:low_gamma:1065:mid_gamma:2351
+Attention Level: 44
+delta: 1846970:theta:461074:low_alpha:241092:high_alpha:170214:low_beta:227989:high_beta:125597:low_gamma:46445:mid_gamma:17579
+Attention Level: 44
+delta: 1195419:theta:64693:low_alpha:42880:high_alpha:61560:low_beta:24231:high_beta:36369:low_gamma:68506:mid_gamma:65325
+Attention Level: 44
+delta: 2213242:theta:41459:low_alpha:42564:high_alpha:84087:low_beta:20872:high_beta:6749:low_gamma:3029:mid_gamma:4540
+Attention Level: 40
+delta: 1076585:theta:106173:low_alpha:12169:high_alpha:12020:low_beta:32114:high_beta:13853:low_gamma:5808:mid_gamma:3305
+Attention Level: 40
+delta: 2069545:theta:954039:low_alpha:50482:high_alpha:311933:low_beta:193329:high_beta:48576:low_gamma:22714:mid_gamma:19124
+Attention Level: 40
