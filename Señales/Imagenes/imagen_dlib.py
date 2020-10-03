@@ -20,9 +20,8 @@ for rostro in rostros:
 	#identificar rasgos faciales
 	
 	marcadores=predictor(grises,rostro)
-	x=marcadores.part(27).x
-	y=marcadores.part(27).y
-
+	x=marcadores.part(21).x
+	y=marcadores.part(21).y
 
 
 	#cv2.rectangle(img=img,pt1=(x1,y1),pt2=(x2,y2),color=(0,255,0),thickness=4)
