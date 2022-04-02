@@ -1,9 +1,13 @@
+#usando deep learning
 from PIL import Image
 import face_recognition
 
-image = face_recognition.load_image_file("personas.jpg")
-face_landmarks_list = face_recognition.face_landmarks(image)
+image = face_recognition.load_image_file("imagen_input.jpg")
+# HOG-based model sirve para detectar caras en la imagen de entrada
+# el CNN model (red neuronal convolucional) 
 face_locations = face_recognition.face_locations(image)
+
+print("I found {} face(s) in this photograph.".format(len(face_locations)))
 
 for face_location in face_locations:
 
@@ -11,16 +15,8 @@ for face_location in face_locations:
     top, right, bottom, left = face_location
     print("A face is located at pixel location Top: {}, Left: {}, Bottom: {}, Right: {}".format(top, left, bottom, right))
 
-    # detección facial coordenadas de donde se encuentra el rostro.
+    # You can access the actual face itself like this:
     face_image = image[top:bottom, left:right]
-
     pil_image = Image.fromarray(face_image)
     pil_image.show()
 
-#encoding_1 = face_recognition.face_encodings (image)[0] 
-#encoding_2 = face_recognition.face_encodings (image)[0]
-
-#resultados = face_recognition.compare_faces([encoding_1], encoding_2, tolerancia = 0.50)
-    
-   
-print(encoding_1)
