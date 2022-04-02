@@ -16,3 +16,5 @@ Se muestran algunos ejemplos básicos para capturar imágenes, usando algunas bi
 
 ## Paquetes para Análisis de Datos
 - Pandas: https://pandas.pydata.org/
+
+## Usando Jupyter
