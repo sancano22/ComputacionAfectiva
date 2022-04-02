@@ -1,8 +1,9 @@
 # Computación Afectiva: Curso de Magister PUCV
-Se muestran algo ejemplos básicos para capturar imágenes, usando algunas bibliotecas:
+### prácticas con Python3.XX y OpenCV
+Se muestran algunos ejemplos básicos para capturar imágenes, usando algunas bibliotecas:
 - dlib
 - numpy
-- cv2
+- cv2 
 - librosa
 - soundfile
 
